@@ -14,7 +14,7 @@ public class Application {
 	}
 	@GetMapping("/")
 	public String getMsg() {
-		return "Welcome To Gradle...";
+		return "Welcome To Gradle Build Tool...";
 	}
 
 }
